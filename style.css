@@ -60,7 +60,7 @@ body {
   
     background-size: 5px 5px;
   
-    filter: drop-shadow(0 0 8px #e66fdc);
+    filter: drop-shadow(0 0 8px #e249d5);
   }
   
   .Petal1 {
@@ -74,7 +74,7 @@ body {
   
     background: radial-gradient(circle, #e66fdc, #f07ee6);
   
-    filter: drop-shadow(0 0 5px #e66fdc);
+    filter: drop-shadow(0 0 5px #e249d5);
   }
   
   .Petal1.p1 {
@@ -101,7 +101,7 @@ body {
   
     background: radial-gradient(circle, #e66fdc, #f07ee6);
   
-    filter: drop-shadow(0 0 5px #e66fdc);
+    filter: drop-shadow(0 0 5px #e249d5);
   }
   
   .Petal2.p1 {
@@ -129,7 +129,7 @@ body {
   
     background: radial-gradient(circle, #e66fdc, #f07ee6);
   
-    filter: drop-shadow(0 0 2px #f07ee6);
+    filter: drop-shadow(0 0 2px #e249d5);
   }
   
   .Petal3.p1 {
