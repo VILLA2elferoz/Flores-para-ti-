@@ -32,11 +32,11 @@ body {
 }
 
 .text-above {
-    top: -60px; /* Ajusta la posición vertical del texto arriba de la flor */
+    top: -75px; /* Ajusta la posición vertical del texto arriba de la flor */
 }
 
 .text-below {
-    bottom: -60px; /* Ajusta la posición vertical del texto debajo de la flor */
+    bottom: -75px; /* Ajusta la posición vertical del texto debajo de la flor */
 }
 @keyframes pulsate {
   0% {
